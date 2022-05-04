@@ -21,9 +21,9 @@ The Book-Crossing dataset comprises 3 files.
 ● Ratings Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit,expressed by 0 .
 
 # Approach and Presentation :
-Final Notebook : https://github.com/yagnik99/Funds-Prediction-for-a-Startup/blob/main/Yagnik_Pandya_Capstone_Project_4_Startup_Funding_Prediction.ipynb
+Final Notebook : https://github.com/satyam-jyoti-sankar/Books_recommend_system/blob/main/Books_recommend_system_.ipynb
 
-Presentation - https://github.com/yagnik99/Funds-Prediction-for-a-Startup/blob/main/Project%20Presentation2.pdf
+Presentation - https://github.com/satyam-jyoti-sankar/Books_recommend_system/blob/main/Book%20Recomendation.pptx
 
 # Important works/ Conclusion :
  
